@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-st.set_page_config(page_title="Data Visualizer", page_icon="icon.png", layout="wide", initial_sidebar_state="auto")
+st.set_page_config(page_title="Awesome Data Explorer App", page_icon="icon.png", layout="wide", initial_sidebar_state="auto")
 # Function to upload file and read data
 def upload_file():
     file_col1, file_col2 = st.columns(2)
@@ -33,7 +33,7 @@ def upload_file():
 
 # Main function to display the app
 def main():
-    st.title("📊 Streamlit Data :orange[Editor] and :orange[Visualizer]")
+    st.title("📊 Awesome Data :orange[Explorer]")
     
     # Upload file and get DataFrame
     data = upload_file()
