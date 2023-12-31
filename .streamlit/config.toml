@@ -1,0 +1,11 @@
+[theme] # You have to add this line
+
+primaryColor = '#FF8C00' # Vivid Orange
+
+backgroundColor = '#1A1A1D' # Midnight Black
+
+secondaryBackgroundColor = '#37383C' # Dark Grey
+
+textColor = '#F6F7FB' # White
+
+font = "serif"
