@@ -4,11 +4,12 @@ Welcome to the **Awesome Data Explorer App**, where your data comes to life! Thi
 
 ## 🌐 Live Demo
 
-Explore the live demo [Here!](https://awesome-data-explorer.streamlit.app) (Link your deployed app here).
+Explore the live demo [Here!](https://awesome-data-explorer.streamlit.app).
 
 ## 🎥 Demo
 
-![Awesome Data Explorer Demo](demo.gif)
+![Awesome Data Explorer App · Streamlit](https://github.com/tech-dev-amit/awesome-data-explorer/assets/154057302/658c06a8-fbda-429a-a835-9feb5df06ed4)
+
 
 ## ✨ Features
 
